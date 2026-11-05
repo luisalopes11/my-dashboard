@@ -1,8 +1,8 @@
-import Header from "./components/Header.jsx";
-import Footer from "./components/Footer.jsx";
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
 
 const areaClass =
-  "min-h-32 rounded-xl border-2 border-dashed border-border bg-surface p-4 text-muted";
+  'min-h-32 rounded-xl border-2 border-dashed border-border bg-surface p-4 text-muted';
 
 function App() {
   return (

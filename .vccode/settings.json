@@ -1,9 +1,0 @@
-{
-  "javascript.validate.enable": true,
-  "js/ts.implicitProjectConfig.checkJs": true,
-  "files.associations": { "*.css": "tailwindcss" },
-  "editor.quickSuggestions": { "strings": "on" },
-  "oxc.enable": true,
-  "problems.decorations.enabled": true,
-  "editor.formatOnSave": false
-}

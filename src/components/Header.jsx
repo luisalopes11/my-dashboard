@@ -9,7 +9,7 @@ function Header() {
       </h1>
       <p className="text-muted">Meus jogos e partidas</p>
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;
